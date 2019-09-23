@@ -345,7 +345,7 @@ n: DU HAST *ANGST VERLETZT ZU WERDEN* BENUTZT
 
 # act1b
 
-n: ES IST SUPER EFFEKTIV
+n: DAS WAR SUPER EFFEKTIV
 
 `bb({mouth:"smile", eyes:"smile"});`
 
@@ -359,7 +359,6 @@ b: Vertrau auf deinen Bauch! Deine Gefühle sind immer richtig!
 
 n: BRING DIE ENERGIELEISTE VON DEINEM MENSCHEN AUF NULL
 
-n: TO PROTECT THEIR PHYSICAL + SOCIAL + MORAL NEEDS, YOU CAN USE:
 n: BESCHÜTZE SEINE KÖRPERLICHEN + SOZIALEN + MORALISCHEN BEDÜRFNISSE MIT:
 
 n: ANGST *VERLETZT* ZU WERDEN #harm#
@@ -370,7 +369,7 @@ n: UND ANGST EIN *SCHLECHTER MENSCH* ZU SEIN #bad#
 
 `Game.OVERRIDE_TEXT_SPEED = 1.25;`
 
-n4: (PROFI-TIP: NIMM DIE OPTIONEN, DIE DEINE PERSÖNLICHEN TIEFSTEN, DUNKELSTEN ÄNGSTE AUSLÖSEN~)
+n4: (PROFI-TIP: NIMM DIE OPTIONEN, DIE DEINE PERSÖNLICHEN TIEFSTEN, DUNKELSTEN ÄNGSTE AUSLÖSEN)
 
 h: ...
 
@@ -978,7 +977,7 @@ bb({body:"fear", eyes:"fear", mouth:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.7;
 ```
 
-b: Dafür prangern sie uns an und ziehn uns mit einem Seil zu Pferde den Informations-Superhighway runter!
+b: Dafür prangern sie uns an und zieh'n uns mit einem Seil zu Pferde die Daten-Autobahn runter!
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1084,7 +1083,7 @@ h: Vielleicht hätte ich die Einladung doch nicht ignorieren sollen?
 
 `hong({eyes:"annoyed"});`
 
-h: Es ist irgendwie unhöflich ihn zu ignorieren, oder?
+h: Es ist irgendwie unhöflich sie zu ignorieren, oder?
 
 `bb({eyes:"normal_right"});`
 
@@ -1135,15 +1134,15 @@ h: Wie auch immer. Neue Tinder-Notification.
 
 `bb({eyes:"uncertain"})`
 
-b: Was, diese Aufreiß-App?
+b: Was, diese Aufreißer-App?
 
 `hong({eyes:"annoyed"})`
 
-h: Das ist keine Aufreiß-App, nur eine neue Art neue Leute kennenzu--
+h: Das ist keine Aufreißer-App, nur eine neue Art neue Leute kennenzu--
 
 `bb({eyes:"narrow"})`
 
-b: Das ist 'ne Aufreiß-App.
+b: Das ist 'ne Aufreißer-App.
 
 ```
 hong({eyes:"surprise", mouth:"smile"});
@@ -1172,7 +1171,7 @@ b: GEFAHR GEFAHR GEFAHR GEFAHR GEFAHR GEFAHR
 
 [Wir *nutzen* andere Leute *aus*.](#act1f_using_others)
 
-[DEIN MATCH IST EIN SERIEN-MÖRDER](#act1f_killer)
+[DEIN MATCH IST EINE SERIENMÖRDERIN](#act1f_killer)
 
 # act1f_used_by_others
 
@@ -1349,7 +1348,7 @@ h:
 {{if _.subtweet}}"sie reden hinter unserem Rücken"... {{/if}}
 {{if _.badnews}}"die Welt geht unter"... {{/if}}
 {{if _.hookuphole}}"wir sterben alleine"... {{/if}}
-{{if _.serialkiller}}"er ist ein Serienmörder"... {{/if}}
+{{if _.serialkiller}}"sie ist eine Serienmörderin"... {{/if}}
 {{if _.catmilk}}"Katzen können keine Milch verdauen"... {{/if}}
 {{if _.pokemon}}eine ^beschissene^ Song-Parodie... {{/if}}
 

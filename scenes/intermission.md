@@ -31,7 +31,7 @@ Game.FORCE_CANT_SKIP = false;
 Game.CLICK_TO_ADVANCE = true;
 ```
 
-n5: (Das Spiel hat auto-gespeichert! Es ist ok aufzuhören & später weiterzumachen)
+n5: (Autosave! Es ist ok aufzuhören & später weiter zu spielen)
 
 ```
 Game.clearAll();

@@ -940,9 +940,9 @@ h: *Ich werde geliebt. Ich bin gut. Ich bin schlau. Ich bin schön. Ich bin beso
 
 [Menschenskind, das ist so narzistisch!](#act2d_narcissist)
 
-[Du weißt schon, dass solche Übungen *wiederlegt* wurden?](#act2d_disproven)
+[Solche Übungen wurden *wiederlegt*...](#act2d_disproven)
 
-[omg weißt du, ob das *wirklich* von amerikanischen Ureinwohnern ist?!](#act2d_racist)
+[*Indianer*... *Ein Topf*?!](#act2d_racist)
 
 # act2d_disproven
 
@@ -1181,11 +1181,11 @@ b: Was mach ich denn falsch?!
 
 `bb({body:"cry_2"});`
 
-b: Ich *weiß* ich schlechte Arbeit leiste. Aber ich *versuche es*, Mensch!
+b: Ich *weiß* ich schlechte Arbeit leiste. Aber ich *bemühe mich*, Mensch!
 
 `bb({body:"cry_3"});`
 
-b: ...ich versuche es.
+b: ...ich bemüh' mich ja.
 
 `bb({body:"cry_6", mouth:"right", eyes:"cry_r_1"});`
 
@@ -1284,7 +1284,7 @@ r: Hör zu: Ich weiß, wie es ist, so ein Tier im Kopf zu haben.
 publish("act2",["party_hunter",8]);
 ```
 
-r: Wir *alle* kennen das. Das ist der Grund, warum ich jedes Wochenende diese Parties schmeiße - damit wir unsere Sorgen, dieses Tier, vergessen können.
+r: Wir *alle* kennen das. Das ist der Grund, warum ich jedes Wochenende diese Parties schmeiße: Damit wir unsere Sorgen - dieses Tier - vergessen können.
 
 ```
 publish("act2",["party_hunter",9]);
@@ -1362,13 +1362,13 @@ b: O--
 
 # act2g_2
 
-b: T--
+b: D--
 
 (#act2g)
 
 # act2g_3
 
-b: D--
+b: N--
 
 (#act2g)
 
@@ -1443,7 +1443,7 @@ h: Und was willst *du* dagegen machen, A^rschloch^?
 
 b: Es tut mir so leid, Mensch.
 
-b: Ich werde meinen SPEZIAL-ANGRIDD benutzen müssen
+b: Ich werde meinen SPEZIAL-ANGRIFF benutzen müssen
 
 ```
 bb({body:"special_a"});
@@ -1517,7 +1517,7 @@ h: ICH KONNTE MEINE EIGENE LEICHE *SEHEN*. ICH KONNTE *SPÜREN* TATSÄCHLICH TOT
 {{/if}}
 
 {{if _.SPECIAL_ATTACK=="alone"}}
-h: ICH KONNTE *SEHEN* WIE MICH JEDER ANGEEKELT ANSIEHT. ICH KONNTE ALLES *HÖREN*, WAS SIE GESAGT HABEN.
+h: ICH KONNTE *SEHEN* WIE MICH JEDER ANGEWIEDERT ANSIEHT. ICH KONNTE ALLES *HÖREN*, WAS SIE GESAGT HABEN.
 {{/if}}
 
 {{if _.SPECIAL_ATTACK=="bad"}}
