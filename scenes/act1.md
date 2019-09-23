@@ -67,11 +67,11 @@ b: Er wird dich wegen einer Panikattacke dein Handy kaputt machen lassen!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: Er wird uns *NICHT* den Gastgeber der Party schlagen lassen!
+b: Er wird uns *NICHT* die Gastgeberin der Party schlagen lassen!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: Er wird uns den Antihelden, den sympatischen Gastgeber der Party schlagen lassen!
+b: Er wird uns den Antihelden, die sympatische Gastgeberin der Party schlagen lassen!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
@@ -417,11 +417,11 @@ h: Ha. In meinem Facebook Verlauf steht, dass dieses Wochenende eine Party ist.
 
 `bb({eyes:"uncertain"});`
 
-b: Schmeißt dieser Spinner nicht *jedes* Wochenende eine Party?
+b: Schmeißt diese Spinnerin nicht *jedes* Wochenende eine Party?
 
 `bb({eyes:"uncertain_right"});`
 
-b: Was für eine innere Leere will der denn füllen? Der muss ja total kaputt sein!
+b: Was für eine innere Leere will die denn füllen? Die muss ja total kaputt sein!
 
 `hong({eyes:"surprise"});`
 
@@ -564,7 +564,7 @@ h: Mensch, ich frag mich warum.
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-b: Also, wenn wir hingehen, fühlt er sich schlecht, aber wenn wir seine Einladung ablehnen, genauso!
+b: Also, wenn wir hingehen, fühlt sie sich schlecht, aber wenn wir ihre Einladung ablehnen, genauso!
 
 `bb({body:"fear", eyes:"fear"});`
 
@@ -729,7 +729,7 @@ h: o-KAY, probier'n wir Snapchat.
 
 `hong({mouth:"smile", eyes:"neutral"});`
 
-h: Ha, ja das ist niedlich. Hab's gerade retweetet, ich de--
+h: Ha, ja das ist niedlich. Jemand hat's gerade retweetet, ich de--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -762,7 +762,7 @@ h: o-KAY, probier'n wir Snapchat.
 
 `hong({mouth:"neutral", eyes:"neutral"});`
 
-h: Ha, Photos von gestern Abend. Also *so* sind diese wöchentlichen Parties.
+h: Ha, Fotos von gestern Abend. Also *so* sind diese wöchentlichen Parties.
 
 {{if _.partyinvite=="yes"}} (#act1e_said_yes) {{/if}}
 
@@ -806,7 +806,7 @@ bb({eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Er hat drauf gezählt, dass wir kommen und jetzt verraten wir sein Vertrauen? Willst du alleine sterben?!
+b: Sie hat darauf gezählt, dass wir kommen und jetzt verraten wir ihr Vertrauen? Willst du alleine sterben?!
 
 {{if _.fifteencigs}}
 b: FÜNFZEHN. ZIGARETTEN.
@@ -1297,15 +1297,15 @@ attack("18p", "bad");
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 {{if _.whitebread}}
-b: Er wird dich in einem Brunnen gefangen halten und dich mit Weißbrot mästen, damit er deine Haut wie einen Anzug tragen kann!
+b: Sie wird dich in einem Brunnen gefangen halten und dich mit Weißbrot mästen, damit sie deine Haut wie einen Anzug tragen kann!
 {{/if}}
 
 {{if _.parasite}}
-b: Er wird dich mit einer Eieruhr niederknüppeln und sagen "DU HÄTTEST PRODUKTIVER SEIN MÜSSEN, DU PARASIT"
+b: Sie wird dich mit einer Eieruhr niederknüppeln und sagen "DU HÄTTEST PRODUKTIVER SEIN MÜSSEN, DU PARASIT"
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
-b: Er wird dein Fleisch zu blutigem Konfetti zerreißen, deine Eingeweide zu Luftschlagen machen und dein Blut in einen Punsch mixen!
+b: Sie wird dein Fleisch zu blutigem Konfetti zerreißen, deine Eingeweide zu Luftschlagen machen und dein Blut in einen Punsch mixen!
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
@@ -1638,7 +1638,7 @@ hong({body:"3_defeated2"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Mach es wie das Gürteltier! Roll zur Selbstverteidigung zu einem Ball zusammen!
+b: Mach es wie das Gürteltier! Kugel dich zur Selbstverteidigung ein!
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 2.5;
@@ -1647,7 +1647,7 @@ hong({body:"3_defeated3"});
 _.act1_ending = "flight";
 ```
 
-b: ROLL DICH AUF UND HEUL ROLL DICH AUF UND HEUL ROLL DICH AUF UND HEUL ROLL DICH AUF UND HEUL RO-- 
+b: ROLL DICH ZUSAMMEN UND HEUL ROLL DICH ZUSAMMEN UND HEUL ROLL DICH ZUSAMMEN UND HEUL ROL--
 
 (#act1j)
 
