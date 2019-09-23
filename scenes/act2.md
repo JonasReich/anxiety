@@ -453,7 +453,7 @@ b: Wir müssen hier raus und für immer in Quarantäne in nem kleinen Raum mit N
 ```
 _.a2_second_danger = 'netflix';
 _.a2_attack_2 = "alone";
-_.a2_hoodie_callback = "a quarantine";
+_.a2_hoodie_callback = "eine Quarantäne";
 ```
 
 (#act2c)
@@ -496,7 +496,7 @@ b: "EIN FETTER, EKELHAFTER, DRECKIGER PERVERSLING"
 ```
 _.a2_second_danger = 'law';
 _.a2_attack_2 = "bad";
-_.a2_hoodie_callback = "the law";
+_.a2_hoodie_callback = "das Gesetz";
 ```
 
 (#act2c)
@@ -526,7 +526,7 @@ b: DAS IST DER SCHMETTERLINGS-EFFEKT, MENSCH! WIE VIELE LEUTE BRINGST DU GERADE 
 ```
 _.a2_second_danger = 'butterfly';
 _.a2_attack_2 = "bad";
-_.a2_hoodie_callback = "World War I";
+_.a2_hoodie_callback = "den ersten Weltkrieg";
 ```
 
 (#act2c)
@@ -554,7 +554,7 @@ b: Mensch, wir müssen von diesen Vergnügungs-Zombies abhauen, bevor sie uns ve
 ```
 _.a2_second_danger = 'zombies';
 _.a2_attack_2 = "alone";
-_.a2_hoodie_callback = "zombies";
+_.a2_hoodie_callback = "Zombies";
 ```
 
 (#act2c)
@@ -606,7 +606,7 @@ b: STEEEEEERRRBBBEEEEEEN
 ```
 _.a2_second_danger = 'ignore';
 _.a2_attack_2 = "harm";
-_.a2_hoodie_callback = "carbon monoxide";
+_.a2_hoodie_callback = "Kohlenstoffmonoxid";
 ```
 
 (#act2c)
@@ -688,7 +688,7 @@ b: Und dann müssen sie die Drohne sterilisieren, um von unseren FEUCHTER SACK K
 
 `_.a2_attack_3 = "alone";`
 
-`_.a2_hoodie_callback = "a quarantine";`
+`_.a2_hoodie_callback = "eine Quarantäne";`
 
 (#act2d)
 
@@ -727,7 +727,7 @@ b: weil er ein FETTER, EKELHAFTER, DRECKIGER PERVERSLING ist
 
 `_.a2_attack_3 = "bad";`
 
-`_.a2_hoodie_callback = "the law";`
+`_.a2_hoodie_callback = "das Gesetz";`
 
 (#act2d)
 
@@ -751,7 +751,7 @@ b: ZACK, DU TREIBST UNSER GESUNDHEITSYSTEM IN DIE PLEITE UND MILLIONEN STERBEN
 
 `_.a2_attack_3 = "bad";`
 
-`_.a2_hoodie_callback = "the butterfly effect";`
+`_.a2_hoodie_callback = "den Schmetterlings-Effekt";`
 
 (#act2d)
 
@@ -771,7 +771,7 @@ b: Dann werden sie dich BEISSEN und dich in ein HIRNLOSEN IDIOTEN verwandeln!
 
 `_.a2_attack_3 = "bad";`
 
-`_.a2_hoodie_callback = "zombies";`
+`_.a2_hoodie_callback = "Zombies";`
 
 (#act2d)
 
@@ -812,7 +812,7 @@ b: FÜR IMMER UND IMMER UND IMMER UND IMM--
 
 `_.a2_attack_3 = "harm";`
 
-`_.a2_hoodie_callback = "carbon monoxide";`
+`_.a2_hoodie_callback = "Kohlenstoffmonoxid";`
 
 (#act2d)
 
@@ -873,7 +873,7 @@ b: AHHH WIR STERBEN! WIR STERBEN WIR STERBEN WIR STER--
 
 `_.a2_attack_3 = "harm";`
 
-`_.a2_hoodie_callback = "punch bowls";`
+`_.a2_hoodie_callback = "Punsch-Schüsseln";`
 
 (#act2d)
 
