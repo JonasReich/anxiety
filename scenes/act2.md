@@ -902,7 +902,7 @@ attack("20p", _.a2_attack_3);
 
 h: SCH^EISSSSEEE^!
 
-H: SCH^EISSE^ SCH^EISSE^ SCH^EISSE^ *SCH^EISSSSEEE^*
+h: SCH^EISSE^ SCH^EISSE^ SCH^EISSE^ *SCH^EISSSSEEE^*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
@@ -941,7 +941,7 @@ h: *Ich werde geliebt. Ich bin gut. Ich bin schlau. Ich bin schön. Ich bin beso
 
 [Solche Übungen wurden *wiederlegt*...](#act2d_disproven)
 
-[*Indianer*... *Ein Topf*?!](#act2d_racist)
+[Ist das *wirklich* von Indianern?](#act2d_racist)
 
 # act2d_disproven
 
@@ -959,7 +959,7 @@ b: Das Ergebnis: Wenn du vorher schon geringen Selbstwert hattest, zieht positiv
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: Wood 2009, Psychological Science. Schau auf Google Scholar nach, Mensch,
+b: Wood 2009, Psychological Science. Schau auf Google Scholar nach, Mensch.
 
 `bb({body:"scream_b_1"})`
 
@@ -1057,7 +1057,7 @@ b: ...
 
 [Ich bin ein Gefühl. Gefühle sind berechtigt.](#act2e_valid)
 
-[Mensch, wir sind *beide* bloß chemische Stoffe."](#act2e_rational)
+[Mensch, wir sind *beide* bloß chemische Stoffe.](#act2e_rational)
 
 # act2e_hurtful
 
@@ -1327,7 +1327,7 @@ sfx("rustle2");
 publish("act2",["party_hunter",11]);
 ```
 
-r: Mein eigener Spezialmix. Ist 'n bisschen stärker als... naja, irgendwas legales, wenn ich ehrlich bin.
+r: Mein eigener Spezialmix. Ist 'n bisschen stärker als... naja, alles was du legal kriegst, wenn ich ehrlich bin.
 
 ```
 publish("act2",["party_hunter",12]);

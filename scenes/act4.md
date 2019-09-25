@@ -1417,7 +1417,7 @@ b: Warum denkt die Selbsthilfe-Industrie, 'ne weiße Flagge zu schwenken wär' i
 
 `bb({ eyes:"annoyed", body:"normal" });`
 
-H: Ich denke Therapeuthen meinen schlechte Sachen "akzeptieren", wie in anerkennen, dass sie existieren und schwer zu ändern sind,
+h: Ich denke Therapeuthen meinen schlechte Sachen "akzeptieren", wie in anerkennen, dass sie existieren und schwer zu ändern sind,
 
 h: aber nicht notwendigerweise den Einsatz zum Ändern fallen zu lassen.
 
