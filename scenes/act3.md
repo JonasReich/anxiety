@@ -30,7 +30,7 @@ publish("act3",["roofhunter",2]);
 publish("act3",["roofhong",2]);
 ```
 
-R: Weißt du, Kind...
+r: Weißt du, Kind...
 
 ```
 publish("act3",["roofhunter",3]);
@@ -125,7 +125,7 @@ r: Das Tier hat angefangen zu heulen, oder nicht?
 publish("act3",["roofhunter",23]);
 ```
 
-R: *Oh neeein es ist gefährlich, mach es niiiicht.*
+r: *Oh neeein es ist gefährlich, mach es niiiicht.*
 
 ```
 publish("act3",["roofhunter",22]);
@@ -160,7 +160,7 @@ publish("act3",["roofhunter",6]);
 publish("act3",["dd",1]);
 ```
 
-r: Sorry, bist du wirklich auf Achtsamkeits-Masche reingefallen, dass es *gut* sein soll, wenn man sich schlecht fühlt?
+r: Sorry, bist du wirklich auf diese Achtsamkeits-Masche reingefallen, dass es *gut* sein soll, wenn man sich schlecht fühlt?
 
 ```
 publish("act3",["roofhunter",17]);
@@ -172,7 +172,7 @@ r: Freude ist das Gegenteil Schmerzen. Also kannst du Freude ^scheiße^-nochmal 
 publish("act3",["roofhunter",18]);
 ```
 
-r: Wie kann es sein, dass diese Silicon Valley Pseudo-Buddhisten den ^Scheiß'^ nicht erkennen?!
+r: Wie kann es sein, dass diese Silicon Valley Pseudo-Buddhisten den ^Scheiß^ nicht erkennen?!
 
 ```
 publish("act3",["roofhunter",6]);
@@ -192,7 +192,7 @@ r: Es ist nicht unser Freund. Es ist ein tollwütiges Biest, das entweder *einge
 publish("act3",["roofhunter",20]);
 ```
 
-r: Oder eine *Kugel in den Kopf verdient*.
+r: oder eine *Kugel in den Kopf verdient*.
 
 ```
 publish("act3",["roofhunter",27]);
@@ -366,7 +366,7 @@ b: Mensch, bitte...
 
 `hong({ eyes:"look_right" });`
 
-h: Oh, es es *tut mir leid*, dass Pharma-Konzerne meine Selbstverschreibung nicht toll finden.
+h: Oh, es es *tut mir leid*, dass die Pharma-Industrie meine Selbstverschreibung nicht toll findet.
 
 h: Hör zu ^Arschloch^, wir haben *alle* Möglichkeiten, dich verdammt noch mal Schweigen zu lassen.
 
@@ -386,15 +386,15 @@ h: Manche Leute stürzen sich in Beziehungen mit anderen.
 
 h: Und ich stürz mich halt in diesen Swimming Pool.
 
-[Du bist betrunken und das ist SECHS STOCKWERKE TIEF](#act3_bad_1_harm)
+[Das ist SECHS STOCKWERKE TIEF](#act3_bad_1_harm)
 
 [Verdammt, so dankst du mir?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
-[Okay, ich geb's zu. Ich hab ver^kackt^.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
+[Okay, ich geb's zu. Ich hab versagt.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
 # act3_bad_1_harm
 
-b: Selbst, wenn du im Wasser landest, die Oberflächenspannung wird deine Rippen brechen und dir *mindestens* eine Kopferschütterung geben!
+b: Selbst, wenn du im Wasser landest, die Oberflächen-spannung wird deine Rippen brechen und dir *mindestens* eine Kopf-erschütterung geben!
 
 h: Phhh.
 

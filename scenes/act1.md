@@ -424,7 +424,7 @@ b: Was für eine innere Leere will die denn füllen? Die muss ja total kaputt se
 
 `hong({eyes:"surprise"});`
 
-h: Außerdem, hab ich ne Einladung?
+h: Außerdem hab ich ne Einladung?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
@@ -432,7 +432,7 @@ b: Na dann!
 
 [Sag ja, oder wir sterben vor Einsamkeit!](#act1c_loner)
 
-[Sag nein, da gibt's haufenweise gefährliche Drogen!](#act1c_drugs)
+[Sag nein, da gibt's gefährliche Drogen!](#act1c_drugs)
 
 [Ignorier's. Wir verderben eh nur den Spaß.](#act1c_sad)
 
@@ -603,11 +603,11 @@ h: Was gibt's neues auf Twitter?
 
 `bb({eyes:"look"});`
 
-[Oh nein, schau dir diese grauenhaften Nachrichten an!](#act1d_news)
+[Diese grauenhaften Nachrichten!](#act1d_news)
 
-[Oh nein, geht's in dem Tweet heimlich um *uns?*](#act1d_subtweet)
+[Geht's in dem Tweet heimlich um *uns?*](#act1d_subtweet)
 
-[Hey, ein GIF von 'ner Katze, die Milch trinkt](#act1d_milk)
+[Ein GIF von 'ner Katze, die Milch trinkt](#act1d_milk)
 
 
 # act1d_news
@@ -681,7 +681,7 @@ h: Machen sie ni---
 
 `bb({body:"fear", eyes:"fear", mouth:"normal"});`
 
-b: VOR UNSEREM RÜCKEN
+b: HINTER UNSEREM RÜCKEN
 
 `hong({eyes:"sad", mouth:"sad"});`
 
@@ -1393,7 +1393,7 @@ h: Jeder sieht so glücklich aus. Sorgenfrei. Unbeschwert.
 
 `hong({mouth:"anger"});`
 
-h: Gott, warum kann ich nicht so wie sie sein? Warum kann ich nicht einfach *normal* sein?
+h: Gott, warum kann ich nicht so wie die sein? Warum kann ich nicht einfach *normal* sein?
 
 `bb({eyes:"normal_right"});`
 

@@ -300,12 +300,11 @@ publish("hp_show");
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-n: ROUND TWO: *FIGHT!*
 n: ZWEITE RUNDE: *UND LOS!*
 
 [Oh Gott, sie hassen uns alle!](#act2a_social)
 
-[Hast du die Rothaarige *angegafft?*](#act2a_perv)
+[Hast du etwa die Rothaarige *angegafft?*](#act2a_perv)
 
 [Hey, lass uns über den Sinn des Lebens reden.](#act2a_meaning)
 

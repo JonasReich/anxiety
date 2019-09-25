@@ -14,7 +14,7 @@ Game.FORCE_CANT_SKIP = false;
 Game.CLICK_TO_ADVANCE = true;
 ```
 
-n3: (game auto-saved)
+n3: (automatisch gespeichert)
 
 ```
 Game.clearText();
@@ -208,7 +208,7 @@ hong({body:"sigh_2"});
 bb({eyes:"look_down"});
 ```
 
-h: *sigh*
+h: *seufz*
 
 ```
 hong({body:"hold", eyes:"normal", mouth:"normal"});
@@ -224,7 +224,7 @@ h: Was haben wir bitte *gelernt*? Ich *war* dumm, meine "Freunde" haben mich ben
 `hong({body:"normal", eyes:"normal"})`
 
 {{if _.INJURED}}
-[Ja, von der Krankenhausrechnung mal ganz abgesehen.](#act4a_bill)
+[Von der KKH-Rechnung ganz abgesehen.](#act4a_bill)
 {{/if}}
 
 {{if !_.INJURED}}
@@ -381,7 +381,7 @@ music('dontfight',{fade:5, volume:0.6});
 bb({eyes:"annoyed_d"});
 ```
 
-b: Ich bin kein Großer Böser Wolf. Aber ich bin auch kein Wachwolf.
+b: Ich bin kein großer böser Wolf. Aber ich bin auch kein Wachwolf.
 
 `bb({eyes:"sad_d"})`
 
@@ -438,7 +438,9 @@ h: Lieber Kopf-Wolf... wie fühlst *du* dich?
 
 n2: INSGESAMt GENUTZTE ÄNGSTE:
 
-n2: *VERLETZT* {{_.attack_harm_total}}, *UNGELIEBT* {{_.attack_alone_total}}, *SCHLECHTER MENSCH* {{_.attack_bad_total}}
+n2: *VERLETZT* {{_.attack_harm_total}}
+n2: *UNGELIEBT* {{_.attack_alone_total}}
+n2: *SCHLECHTER MENSCH* {{_.attack_bad_total}}
 
 n2: ÜBER WELCHE ANGST WILLST DU ALS ERSTES REDEN? (DU KANNST DIE ANDEREN DANACH NEHMEN)
 
@@ -806,7 +808,7 @@ h: Och, du großer flauschig-wuscheliger Panikwolf.
 
 # act4_thanks_2
 
-h: Selbst wenn du überreagierst, schätue ich, dass du dich um mein {{_.thanks_for}} sorgst.
+h: Selbst wenn du überreagierst, schätze ich, dass du dich um mein {{_.thanks_for}} sorgst.
 
 `bb({ eyes:"annoyed" })`
 
@@ -831,7 +833,7 @@ b: Gut, dann danke auch dir, dass du mir so geduldig zuhörst.
 
 `bb({ eyes:"closed" });`
 
-b: Du kleiner haarloses Fleisch-Säugetier.
+b: Du kleines haarloses Fleisch-Säugetier.
 
 (#act4_something_else)
 
@@ -1863,7 +1865,7 @@ b: Ich will, dass wir uns *verbünden!*
 
 `publish("act4", ["bb_closer", 3]);`
 
-b: Ich will ein guter Wachhund sein. So wie Hunger und Durst bereits Alarme für deine körperlichen Bedürfnisse sind-
+b: Ich will ein guter Wachhund sein. So wie Hunger und Durst bereits Alarm-Signale für deine körperlichen Bedürfnisse sind,-
 
 `publish("act4", ["bb_closer", 8]);`
 
@@ -1891,7 +1893,7 @@ b: Und manchmal werde ich rückfällig werden und in alte Angewohnheiten rutsche
 
 `publish("act4", ["bb_closer", 2]);`
 
-b: Ich werde Schatten anbellen. Ich werde ich mit Worten einschüchtern.
+b: Ich werde Schatten anbellen. Ich werde dich mit Worten einschüchtern.
 
 b: Ich werde dir vielleicht sogar Bilder von... Dingen zeigen.
 
