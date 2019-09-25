@@ -667,7 +667,7 @@ bb({ eyes:"sorry"});
 hong({ body:"yell_2", mouth:"yell", eyes:"blank" });
 ```
 
-H: KEIN. SCH^EISS^.
+h: KEIN. SCH^EISS^.
 
 `hong({ body:"yell_1" });`
 
