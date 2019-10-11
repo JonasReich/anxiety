@@ -476,7 +476,7 @@ b: Aber bring deinen Laptop mit damit wir arbeiten können, du Sozialparasit.
 {{/if}}
 
 {{if _.whitebread}}
-b: Aber nur, wenn's da kein WEISSBROT gibt
+b: Aber nur, wenn's da kein WEIßBROT gibt
 {{/if}}
 
 `hong({mouth:"anger", eyes:"anger"});`
@@ -498,7 +498,7 @@ b: Mensch, Wal-Kacke! Wal-Kacke!
 `bb({mouth:"small", eyes:"fear"});`
 
 {{if _.whitebread}}
-b: oder noch schlimmer... WEISSBROT
+b: oder noch schlimmer... WEIßBROT
 {{/if}}
 
 {{if _.whitebread}}
