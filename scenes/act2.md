@@ -592,7 +592,7 @@ _.a2_hoodie_callback = "Hitler";
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: denkst du dass du sicher bist, nur weil du die Batterien aus dem Rauchmelder genommen hast?
+b: Denkst du, dass du sicher bist, nur weil du die Batterien aus dem Rauchmelder genommen hast?
 
 `bb({eyes:"suspect_r"})`
 
