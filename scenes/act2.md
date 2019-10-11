@@ -933,7 +933,7 @@ h: Ich hab versucht dich *verhungern* zu lassen, du sadistisches ^Arschloch^!
 
 `hong({body:"smile", mouth:"smile"})`
 
-h: Sch^eiß^ drauf, ich versuchs stattdessen mit positiver Selbstbestätigung
+h: Sch^eiß^ drauf, ich versuch's stattdessen mit positiver Selbstbestätigung.
 
 h: *Ich werde geliebt. Ich bin gut. Ich bin schlau. Ich bin schön. Ich bin besonders.*
 
@@ -1394,7 +1394,7 @@ h: Ein vollmundiger Geschmack von "blend deine Gedanken aus", mit nem leichten A
 
 b: Das ist schlecht, Mensch. Das ist wirklich, wirklich schlecht.
 
-[Das ist *genau* wie Sucht startet](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
+[Das ist *genau* wie Sucht startet.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
 
 [Ich *wusste*, die Gastgeberin ist total fertig!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
 
@@ -1665,7 +1665,7 @@ r: ^Verdammt^. Das Tier hat heute gewonnen, wie?
 
 `publish("act2",["party_hunter",15]);`
 
-h2: Nein nein, es ist nur so, ähm, ich lauf' morgen 'nen Marathon. Bruder muss los.
+h2: nein nein, es ist nur so, ähm, ich lauf' morgen 'nen Marathon. Bruder muss los.
 
 `publish("act2",["party_hunter",19]);`
 
