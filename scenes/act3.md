@@ -808,7 +808,7 @@ hong({ body:"stop", mouth:"stop", eyes:"blank" });
 
 h: Ja, naja, das hier war eh 'ne dumme Idee.
 
-h. Ich hab' das nur gemacht, um dich fertig zu machen, und, naja, ich hab' dich fertig gemacht.
+h: Ich hab' das nur gemacht, um dich fertig zu machen, und, naja, ich hab' dich fertig gemacht.
 
 h: Lass uns einfach sagen, dieses Mal haben wir Gleichstand, okay?
 
