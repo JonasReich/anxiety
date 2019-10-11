@@ -557,7 +557,7 @@ bb({mouth:"normal", eyes:"normal"});
 hong({mouth:"neutral", eyes:"lookaway"});
 ```
 
-h: Mensch, ich frag mich warum.
+h: Mensch, ich frag' mich warum.
 
 `hong({eyes:"neutral"});`
 
