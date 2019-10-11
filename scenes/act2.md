@@ -53,7 +53,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Schon, aber die folgen ja auch nur Anreizeh von außen. Das *wahre* Problem sind Leute, die das anklicken.
+s: Schon, aber die folgen ja auch nur Anreize von außen. Das *wahre* Problem sind Leute, die das anklicken.
 
 ```
 publish("act2",["dee",3]);
@@ -108,7 +108,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ernsthaft Alter. Ich mein - hallo - mal zu googlen, ob da was dran ist, kann ja wohl nicht schwer sein.
+s: Ernsthaft Alter. Ich mein' - hallo - mal zu googlen, ob da was dran ist, kann ja wohl nicht schwer sein.
 
 ```
 publish("act2",["party_hunter",1]);
@@ -157,7 +157,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Also, ich hab gestern 'n Retweet gesehen, ein GIF von 'ner Katze, die Milch trinkt.
+s: Also, ich hab' gestern 'n Retweet gesehen, ein GIF von 'ner Katze, die Milch trinkt.
 
 ```
 publish("act2",["dee",3]);
@@ -249,7 +249,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ja, ich weiß auch nicht! Vielleicht denkt er bei ner flotten Nummer lernt er niemanden kennen?
+s: Ja, ich weiß auch nicht! Vielleicht denkt er bei 'ner flotten Nummer lernt er niemanden kennen?
 
 s: Der soll mal aufhören so prüde zu sein! Offener im Kopf und im Bett!
 
@@ -354,7 +354,7 @@ _.a2_attack_1 = "bad";
 
 `bb({body:"one_up", eyes:"normal_r"})`
 
-b: Am Ende des Tages - können wir überhaupt irgendwas machen, das ne Rolle spielt?
+b: Am Ende des Tages - können wir überhaupt irgendwas machen, das 'ne Rolle spielt?
 
 `bb({body:"normal", eyes:"sad"})`
 
@@ -447,7 +447,7 @@ b: Du wirst eine tödliche Welle von NASSER SACK SYNDROM verbreitden
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: Wir müssen hier raus und für immer in Quarantäne in nem kleinen Raum mit Netflix und Lieferessen!
+b: Wir müssen hier raus und für immer in Quarantäne in 'nem kleinen Raum mit Netflix und Lieferessen!
 
 ```
 _.a2_second_danger = 'netflix';
@@ -520,7 +520,7 @@ b: was im ersten Weltkrieg MILLIONEN VON MENSCHEN UMGEBRACHT HAT
 
 `bb({body:"two_up", eyes:"shock"})`
 
-b: DAS IST DER SCHMETTERLINGS-EFFEKT, MENSCH! WIE VIELE LEUTE BRINGST DU GERADE AUSVERSEHEN UM
+b: DAS IST DER SCHMETTERLINGSEFFEKT, MENSCH! WIE VIELE LEUTE BRINGST DU GERADE AUSVERSEHEN UM
 
 ```
 _.a2_second_danger = 'butterfly';
@@ -568,7 +568,7 @@ b: Menschen sterben in Hungersnöten und Genoziden *jetzt gerade* und wir machen
 
 `bb({body:"point", eyes:"closed", mouth:"small"})`
 
-b: Wie eine Weise Frau einst gesagt hat: "das Einzige was für den Triumph des Bösen nötig ist, ist dass die Guten nichts machen".
+b: Wie eine weise Frau einst gesagt hat: "das Einzige was für den Triumph des Bösen nötig ist, ist dass die Guten nichts machen".
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
@@ -621,7 +621,7 @@ b: ...
 
 `bb({eyes:"happy", mouth:"smile", body:"chest"})`
 
-b: Oh Gott sei Dank, Mensch, ich glaub du kannst mich wieder hören!
+b: Oh Gott sei Dank, Mensch, ich glaub' du kannst mich wieder hören!
 
 `bb({eyes:"closed", body:"point"})`
 
@@ -734,7 +734,7 @@ b: weil er ein FETTER, EKELHAFTER, DRECKIGER PERVERSLING ist
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: SCHMETTERLINGS EFFEKT! Du benutzt gerade einen nichtkompostierbaren Plastikbecher?
+b: SCHMETTERLINGSEFFEKT! Du benutzt gerade einen nichtkompostierbaren Plastikbecher?
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
@@ -807,6 +807,7 @@ b: Was wenn wir *JETZT GERADE* alle vergiftet werden?
 `bb({body:"scream_a_1"})`
 
 b: WIR WÜRDEN NICHTMAL MERKEN, DASS WIR TOT SIND. WIR WÜRDEN EINFACH AUFHÖREN ZU EXISTIEREN.
+
 b: FÜR IMMER UND IMMER UND IMMER UND IMM--
 
 `_.a2_attack_3 = "harm";`
@@ -824,11 +825,12 @@ b: Was wenn wir einfach *von Grund auf unfähig* sind, je geliebt zu werden, ode
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
 b: Was wenn etwas vor langer Zeit nicht reparierbar in uns kaputt gegangen ist?
+
 b: Oder noch schlimmer: Vielleicht was es nie in uns?
 
 `bb({body:"scream_a_1"})`
 
-b: AHH WIR SIND KAPUTT! SO KAPUTT SO KAPUTT SO KAPP--
+b: AHH WIR SIND KAPUTT! SO KAPUTT SO KAPUTT SO KAP--
 
 `_.a2_attack_3 = "alone";`
 
@@ -951,7 +953,7 @@ b: Tatsächlich geht sowas für Leute mit geringem Selbstwertgefühl gerne *nach
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
-b: Das war ne gut durchdachte Studie - zufällige Kontrollgruppen, anonymisierte Daten, usw.
+b: Das war 'ne gut durchdachte Studie - zufällige Kontrollgruppen, anonymisierte Daten, usw.
 
 `bb({body:"two_up", mouth:"small", eyes:"normal_r"})`
 
@@ -983,7 +985,7 @@ b: Du *musst* deine eigenen Fehler demütig eingestehen, um als Mensch zu wachse
 
 `bb({body:"two_up", eyes:"suspect"})`
 
-b: Du kannst nicht einfach Luferfrischer in nem Raum mit Schimmel rumsprühen! Einfach den Teppich drüber kehren macht's langfrisitg nur schlimmer.
+b: Du kannst nicht einfach Lufterfrischer in 'nem Raum mit Schimmel rumsprühen! Einfach den Teppich drüber kehren macht's langfristig nur schlimmer.
 
 `bb({body:"chest", mouth:"smile", eyes:"closed"})`
 
@@ -1100,7 +1102,7 @@ b: Und wenn wir *beide* irrational sind, dann werden wir *nie* herausfinden, wie
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WIR SIND SO KAPUTT! SO KAPUTT SO KAPUTT SO KAPPUTT--
+b: AHHH WIR SIND SO KAPUTT! SO KAPUTT SO KAPUTT SO KAPUTT--
 
 ```
 music(null);
@@ -1168,7 +1170,7 @@ b: Was denkst du, wie *ich* mich fühle, Mensch?!
 
 b: Ich versuche mein Bestes, dein treuer Wachwolf zu sein, aber du siehst mich nur als Großen Bösen Wolf!
 
-b: Also versuch ich noch *viel mehr*, dich auf Gefahren aufmerksam zu machen. *Größere* Gefahren! *Andere* Gefahren!
+b: Also versuch' ich noch *viel mehr*, dich auf Gefahren aufmerksam zu machen. *Größere* Gefahren! *Andere* Gefahren!
 
 `bb({eyes:"cry_2"})`
 
@@ -1266,11 +1268,11 @@ publish("act2",["party_hong",19]);
 ```
 
 {{if _.act1_ending=="fight"}}
-r: Zum Kuckuck, erst gestern hab ich gehört, dass jemand auf dem Kampus in 'ner Nervenattacke sein Handy kaputt gemacht hat!
+r: Zum Kuckuck, erst gestern hab' ich gehört, dass jemand auf dem Kampus in 'ner Nervenattacke sein Handy kaputt gemacht hat!
 {{/if}}
 
 {{if _.act1_ending=="flight"}}
-r: Zum Kuckuck, erst gestern hab ich gehört, dass sich jemanda uf dem Kampus wie ein Güreltier zusammengerollt hat und in aller Öffentlichkeit losgeflennt hat!
+r: Zum Kuckuck, erst gestern hab' ich gehört, dass sich jemand auf dem Kampus wie ein Güreltier zusammengerollt hat und in aller Öffentlichkeit losgeflennt hat!
 {{/if}}
 
 ```
@@ -1390,7 +1392,7 @@ h: Hmm, was für ein exquisites Armoa!
 
 h: Ein vollmundiger Geschmack von "blend deine Gedanken aus", mit nem leichten Abgang von "fühl nie wieder irgendwas"!
 
-b: Das ist schlecht Mensch. Das ist wirklich, wirklich schlecht.
+b: Das ist schlecht, Mensch. Das ist wirklich, wirklich schlecht.
 
 [Das ist *genau* wie Sucht startet](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
 
@@ -1641,11 +1643,11 @@ publish("act2",["party_hunter",19]);
 publish("act2",["party_hong",36]);
 ```
 
-h2: ok bye, ciao, adios, au revoir
+h2: ok tschüss, ciao, adios, au revoir
 
-r: Das Tier mag heute gewonnen haben, aber wenn du wieder kommst, mix ich dir was noch stärkeres!
+r: Das Tier mag heute gewonnen haben, aber wenn du wieder kommst, mix' ich dir was noch stärkeres!
 
-h2: sayōnara, auf wiedersehen, zài jiàn, shalom
+h2: goodbye, sayōnara, zài jiàn, shalom
 
 r: Du und ich, Kind, wir zeigen dem Vieh wer das Sagen hat!
 
@@ -1663,13 +1665,13 @@ r: ^Verdammt^. Das Tier hat heute gewonnen, wie?
 
 `publish("act2",["party_hunter",15]);`
 
-h2: Nein nein, es ist nur so, ähm, ich lauf morgen 'nen Marathon. Bruder muss los.
+h2: Nein nein, es ist nur so, ähm, ich lauf' morgen 'nen Marathon. Bruder muss los.
 
 `publish("act2",["party_hunter",19]);`
 
-r: Komm nächste Woche zu meiner Partie, Süßer. Dann mix ich dir was noch stärkeres.
+r: Komm nächste Woche zu meiner Partie, Süßer. Dann mix' ich dir was noch stärkeres.
 
-h2: ok danke mus los los los los
+h2: ok danke muss los los los los
 
 r: Du und ich, Kind, wir zeigen dem Vieh schon wer das Sagen hat!
 
@@ -1718,7 +1720,7 @@ sfx("hit");
 
 (...1000)
 
-h: Ich werd nächstes Wochenende auf die Party gehen.
+h: Ich werd' nächstes Wochenende auf die Party gehen.
 
 h: Nächstes Mal, wenn wir kämpfen, werd' ich dich nicht einfach nur *schlagen*...
 
