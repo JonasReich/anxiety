@@ -424,7 +424,7 @@ b: Was für eine innere Leere will die denn füllen? Die muss ja total kaputt se
 
 `hong({eyes:"surprise"});`
 
-h: Außerdem hab ich 'ne Einladung?
+h: Außerdem hab' ich 'ne Einladung?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
@@ -1465,7 +1465,7 @@ sfx("rustle2");
 hong({body:"0_sammich", eyes:"0_annoyed", mouth:"0_neutral"});
 ```
 
-h: Also, entschuldige mich, während ich ich dieses schmackhafte Sandwich in ^gottverdammter^ Ruhe genieße.
+h: Also, entschuldige mich, während ich dieses schmackhafte Sandwich in ^gottverdammter^ Ruhe genieße.
 
 `hong({body:"2_sammich_eat"});`
 
