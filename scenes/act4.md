@@ -672,7 +672,7 @@ h: Alle Säugetiere haben die selbe Kampf-oder-Flucht-Reaktion.
 
 # act4_harm_exposure_dog
 
-h: Und ich zeig dir Güte und Geduld bis wir dich zu einem süßen kleinen Welpen gezähmt haben.
+h: Und ich zeig' dir Güte und Geduld bis wir dich zu einem süßen kleinen Welpen gezähmt haben.
 
 `bb({ MOUTH_LOCK:true })`
 
