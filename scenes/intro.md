@@ -96,7 +96,7 @@ n3: Willkommen! Das hier ist weniger ein "Spiel", sondern mehr eine interaktive 
 
 n3: Hoffentlich liest du sie gerne!
 
-n3: So, bevor wie anfangen: Wie würdest *du* gerne lesen?
+n3: Also, bevor wie anfangen: Wie würdest *du* gerne lesen?
 
 `publish("show_options_bottom")`
 
