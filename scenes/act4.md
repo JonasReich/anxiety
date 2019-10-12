@@ -1136,7 +1136,7 @@ h: *"Nicht viel!"*
 
 `bb({ eyes:"suspect_r" })`
 
-b: Vielleicht will der Barista einfach nur verdammten Kaffe machen-
+b: Vielleicht will der Barista einfach nur verdammten Kaffee machen-
 
 b: und nicht zu einem *Sozialexperiment* werden, um zu beweisen, wie sehr unsere sozialen Fähigkeiten abstinken.
 
