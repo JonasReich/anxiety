@@ -215,7 +215,7 @@ hong({body:"hold", eyes:"normal", mouth:"normal"});
 bb({eyes:"normal"});
 ```
 
-h: Also was zur Hölle war die Moral von dieser Geschichte?
+h: Also was zur ^Hölle^ war die Moral von dieser Geschichte?
 
 `hong({body:"one_up", eyes:"annoyed"})`
 
@@ -332,9 +332,9 @@ b: Naja, im Vergleich macht es alles andere weniger beunruhigend. Es hat mich au
 
 `bb({eyes:"normal", mouth:"normal"});`
 
-b: Gegen dich anzukämpfen ist ^scheiße^, weil es dich nicht beschützt...
+b: Gegen dich anzukämpfen ist schlecht, weil es dich nicht beschützt...
 
-h: Aber gegen dich anzukämfen ist *auch* ^scheiße^, weil du dann bloß lauter brüllst...
+h: Aber gegen dich anzukämfen ist *auch* schlecht, weil du dann bloß lauter brüllst...
 
 `bb({eyes:"normal_r"})`
 
@@ -389,7 +389,7 @@ b: Ich bin ein mitgenommener Straßenhund.
 
 `bb({eyes:"sad"})`
 
-b: Wir haben übles Zeug erlebt. Vielleicht Trauma oder Vernachlässigung. Deshalb überreagiere ich manchmal und mach:
+b: Wir haben übles Zeug erlebt. Vielleicht Trauma oder Vernachlässigung. Deshalb überreagiere ich manchmal und mach':
 
 ```
 sfx("yaps", {volume:0.6});
@@ -438,9 +438,7 @@ h: Lieber Kopf-Wolf... wie fühlst *du* dich?
 
 n2: INSGESAMT GENUTZTE ÄNGSTE:
 
-n2: *VERLETZT* {{_.attack_harm_total}}
-n2: *UNGELIEBT* {{_.attack_alone_total}}
-n2: *SCHLECHTER MENSCH* {{_.attack_bad_total}}
+n2: *VERLETZT* {{_.attack_harm_total}}, *UNGELIEBT* {{_.attack_alone_total}}, *SCHLECHTER MENSCH* {{_.attack_bad_total}}
 
 n2: ÜBER WELCHE ANGST WILLST DU ALS ERSTES REDEN? (DU KANNST DIE ANDEREN DANACH NEHMEN)
 
@@ -455,7 +453,7 @@ bb({eyes:"normal"});
 
 [Ich hab' Angst, allein zu bleiben.](#act4_alone)
 
-[Ich hab' Angst, *schlecht* zu sein.](#act4_bad)
+[Ich hab' Angst, ein schlechter Mensch zu sein.](#act4_bad)
 
 # act4_harm
 
