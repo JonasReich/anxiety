@@ -390,7 +390,7 @@ h: Und ich stürz' mich halt in diesen Swimmingpool.
 
 [Verdammt, so dankst du mir?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
-[Okay, ich geb's zu. Ich hab versagt.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
+[Okay, ich geb's zu. Ich hab' versagt.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
 # act3_bad_1_harm
 
@@ -740,7 +740,7 @@ h: *Was* tut dir leid?
 
 `bb({eyes:"sorry_down"});`
 
-b: Es ist meine Pflicht, dich vor *echter* Gefahr zu warnen, aber ich hab Autos und Briefträger angebellt.
+b: Es ist meine Pflicht, dich vor *echter* Gefahr zu warnen, aber ich hab' Autos und Briefträger angebellt.
 
 `bb({eyes:"sorry_up"});`
 
