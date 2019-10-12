@@ -46,7 +46,7 @@ publish("act3",["roofhong",5]);
 
 r: Du erinnerst mich an mich selbst, als ich jünger war.
 
-r: Damals hab ich mich selbst noch von dem Tier in meinem Kopf fertig machen lassen.
+r: Damals hab' ich mich selbst noch von dem Tier in meinem Kopf fertig machen lassen.
 
 ```
 publish("act3",["roofhunter",9]);
@@ -475,7 +475,7 @@ h: Irgendwelche anderen Anmerkungen, du Blitzmerker?
 
 [Dich an mir zu rächen, ist nicht die Lösung!](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[Dieses Mal hab ich *tatsächlich* recht!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[Dieses Mal hab' ich *tatsächlich* recht!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
 [Ich hab' dir wehgetan.](#act3_good_2a)
 
@@ -744,7 +744,7 @@ b: Es ist meine Pflicht, dich vor *echter* Gefahr zu warnen, aber ich hab' Autos
 
 `bb({eyes:"sorry_up"});`
 
-b: Ich hab Schatten angebellt. So viel gebellt. 
+b: Ich hab' Schatten angebellt. So viel gebellt. 
 
 `bb({eyes:"sorry"});`
 
