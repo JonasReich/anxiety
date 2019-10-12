@@ -1150,7 +1150,7 @@ attack("10p", "harm");
 
 h: ...
 
-h: Ich hasse das. Gott es tut so weh, Ich *hasse* das.
+h: Ich hasse das. Gott es tut so weh, ich *hasse* das.
 
 h: Ich kann dich nicht besänftigen. Ich kann dich nicht ignorieren. Ich kann dich nicht bekämpfen.
 
@@ -1178,11 +1178,11 @@ b: Aber egal, wie sehr ich versuche, dich zu beschützen, du denkst *immer noch*
 
 `bb({body:"cry_5"});`
 
-b: Was mach ich denn falsch?!
+b: Was mach' ich denn falsch?!
 
 `bb({body:"cry_2"});`
 
-b: Ich *weiß* ich schlechte Arbeit leiste. Aber ich *bemühe mich*, Mensch!
+b: Ich *weiß*, dass ich schlechte Arbeit leiste. Aber ich *bemühe mich*, Mensch!
 
 `bb({body:"cry_3"});`
 
