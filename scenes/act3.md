@@ -675,7 +675,7 @@ h: ^GOTTVERDAMMT^. Hast du wirklich so lang gebraucht, um das endlich rauszufind
 
 `hong({ body:"cry", mouth:"cry", eyes:"blank" });`
 
-h: Du hättest uns so viele Sorgen ersparen können, du großer flauchiger Dumkopf.
+h: Du hättest uns so viele Sorgen ersparen können, du großer flauchiger Dummkopf.
 
 h: Warum hast du das bloß nicht früher kapiert?...
 
