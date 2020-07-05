@@ -215,7 +215,7 @@ hong({body:"hold", eyes:"normal", mouth:"normal"});
 bb({eyes:"normal"});
 ```
 
-h: Also was zur ^Hölle^ war die Moral von dieser Geschichte?
+h: Also was zur Hölle war die Moral von dieser Geschichte?
 
 `hong({body:"one_up", eyes:"annoyed"})`
 
@@ -332,9 +332,9 @@ b: Naja, im Vergleich macht es alles andere weniger beunruhigend. Es hat mich au
 
 `bb({eyes:"normal", mouth:"normal"});`
 
-b: Gegen dich anzukämpfen ist schlecht, weil es dich nicht beschützt...
+b: Gegen dich anzukämpfen ist ^scheiße^, weil es dich nicht beschützt...
 
-h: Aber gegen dich anzukämfen ist *auch* schlecht, weil du dann bloß lauter brüllst...
+h: Aber gegen dich anzukämfen ist *auch* ^scheiße^, weil du dann bloß lauter brüllst...
 
 `bb({eyes:"normal_r"})`
 
@@ -1896,7 +1896,7 @@ b: Ich werde dir vielleicht sogar Bilder von... Dingen zeigen.
 
 `publish("act4", ["bb_closer", 9]);`
 
-b: Es tut mir Leid! Ich bin ein mitgenommener Straßenhund! Mitgenommene Hunde ^kack^en dir manchmal auf's Bett!
+b: Es tut mir Leid! Ich bin ein mitgenommener Straßenhund! Mitgenommene Hunde machen dir manchmal auf's Bett!
 
 `publish("act4", ["bb_closer", 4]);`
 
