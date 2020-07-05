@@ -239,7 +239,7 @@ h: Was haben wir bitte *gelernt*? Ich *war* dumm, meine "Freunde" haben mich ben
 
 `hong({eyes:"annoyed_l", mouth:"narrow"});`
 
-h: Richtig. Ich glaub meine Versicherung deckt Dummheit nicht mit ab.
+h: Richtig. Ich glaub' meine Versicherung deckt Dummheit nicht mit ab.
 
 `hong({eyes:"annoyed", mouth:"normal"});`
 
@@ -255,7 +255,7 @@ h: ?
 
 `bb({eyes:"normal_d"});`
 
-b: We haben definitiv ein paar Jährchen von unserer Lebenserwartung gestrichen...
+b: Wir haben definitiv ein paar Jährchen von unserer Lebenserwartung gestrichen...
 
 `bb({eyes:"surprise"});`
 
@@ -389,7 +389,7 @@ b: Ich bin ein mitgenommener Straßenhund.
 
 `bb({eyes:"sad"})`
 
-b: Wir haben übles Zeug erlebt. Vielleicht Trauma oder Vernachlässigung. Deshalb überreagiere ich manchmal und mach:
+b: Wir haben übles Zeug erlebt. Vielleicht Trauma oder Vernachlässigung. Deshalb überreagiere ich manchmal und mach':
 
 ```
 sfx("yaps", {volume:0.6});
@@ -436,11 +436,9 @@ hong({body:"hands_2", mouth:"normal"});
 
 h: Lieber Kopf-Wolf... wie fühlst *du* dich?
 
-n2: INSGESAMt GENUTZTE ÄNGSTE:
+n2: INSGESAMT GENUTZTE ÄNGSTE:
 
-n2: *VERLETZT* {{_.attack_harm_total}}
-n2: *UNGELIEBT* {{_.attack_alone_total}}
-n2: *SCHLECHTER MENSCH* {{_.attack_bad_total}}
+n2: *VERLETZT* {{_.attack_harm_total}}, *UNGELIEBT* {{_.attack_alone_total}}, *SCHLECHTER MENSCH* {{_.attack_bad_total}}
 
 n2: ÜBER WELCHE ANGST WILLST DU ALS ERSTES REDEN? (DU KANNST DIE ANDEREN DANACH NEHMEN)
 
@@ -455,7 +453,7 @@ bb({eyes:"normal"});
 
 [Ich hab' Angst, allein zu bleiben.](#act4_alone)
 
-[Ich hab' Angst, *schlecht* zu sein.](#act4_bad)
+[Ich hab' Angst, ein schlechter Mensch zu sein.](#act4_bad)
 
 # act4_harm
 
@@ -555,7 +553,7 @@ h: Deswegen: Das *ist* Selbstverteidigungs-Training.
 
 `bb({ eyes:"normal_r" })`
 
-b: Hm. Ich hab ja mehr sowas erwartet:
+b: Hm. Ich hab' ja mehr sowas erwartet:
 
 ```
 Game.FORCE_CANT_SKIP = true;
@@ -674,7 +672,7 @@ h: Alle Säugetiere haben die selbe Kampf-oder-Flucht-Reaktion.
 
 # act4_harm_exposure_dog
 
-h: Und ich zeig dir Güte und Geduld bis wir dich zu einem süßen kleinen Welpen gezähmt haben.
+h: Und ich zeig' dir Güte und Geduld bis wir dich zu einem süßen kleinen Welpen gezähmt haben.
 
 `bb({ MOUTH_LOCK:true })`
 
@@ -741,7 +739,7 @@ hong({ eyes:"annoyed" });
 bb({ body:"normal", eyes:"annoyed" });
 ```
 
-h: Ne, du has recht. Man *kann* zu weit gehen.
+h: Nee, du hast recht. Man *kann* zu weit gehen.
 
 `hong({ eyes:"normal" });`
 
@@ -753,7 +751,7 @@ h: Kurz bevor wir *tatsächlich* in Gefahr geraten, hören wir auf.
 
 `bb({ eyes:"annoyed_r", mouth:"narrow" });`
 
-b: Hm ja, ich zieh die Grenze zwischen lauten Donner hören und mit 'nem hohen Aluhut im Gewitter zu stehen.
+b: Hm ja, ich zieh' die Grenze zwischen lauten Donner hören und mit 'nem hohen Aluhut im Gewitter zu stehen.
 
 (#act4_something_else)
 
@@ -819,7 +817,7 @@ bb({ eyes:"normal" });
 hong({ eyes:"annoyed", body:"chin" });
 ```
 
-h: Naja, sowas ist kompliziert und ich hab nicht immer 'ne Antwort parat.
+h: Naja, sowas ist kompliziert und ich hab' nicht immer 'ne Antwort parat.
 
 `hong({ eyes:"annoyed_l", body:"one_up" })`
 
@@ -970,7 +968,7 @@ h: “Sei Kein ^Arsch^™”
 
 `bb({ eyes:"angry" })`
 
-b: Wir hol'n uns ne Fußmatte auf der steht "Bitte und Danke, dass ihr eure Füße an uns abtretet!"
+b: Wir hol'n uns 'ne Fußmatte auf der steht "Bitte und Danke, dass ihr eure Füße an uns abtretet!"
 
 `bb({ mouth:"scream", eyes:"scream" })`
 
@@ -981,7 +979,7 @@ bb({ mouth:"normal", eyes:"normal" });
 hong( body:"chin" });
 ```
 
-h: Nee, du has recht. "Soziale Fähigkeiten" können sich nur darum drehen, anderen zu gefallen.
+h: Nee, du hast recht. "Soziale Fähigkeiten" können sich nur darum drehen, anderen zu gefallen.
 
 h: Es muss auch darum gehen, *Grenzen* zu setzen.
 
@@ -994,7 +992,7 @@ hong( eyes:"angry", mouth:"narrow" });
 bb( eyes:"annoyed", mouth:"smile" });
 ```
 
-h: Also... bzgl. dem ^Arsch^kriech-Bild, das ich jetzt im Kopf hab... *Igitt??*
+h: Also... bzgl. dem ^Arsch^kriech-Bild, das ich jetzt im Kopf hab'... *Igitt??*
 
 (#act4_something_else)
 
@@ -1090,7 +1088,7 @@ hong({eyes:"normal"});
 bb({ eyes:"super_sad", mouth:"smile", body:"chest" });
 ```
 
-b: Ich roll mich auf den Rücken, wenn du mir ein Leckerchen gibst.
+b: Ich roll' mich auf den Rücken, wenn du mir ein Leckerchen gibst.
 
 `bb({ eyes:"normal", mouth:"normal" });`
 
@@ -1136,7 +1134,7 @@ h: *"Nicht viel!"*
 
 `bb({ eyes:"suspect_r" })`
 
-b: Vielleicht will will der Barista einfach nur verdammten Kaffe machen-
+b: Vielleicht will der Barista einfach nur verdammten Kaffee machen-
 
 b: und nicht zu einem *Sozialexperiment* werden, um zu beweisen, wie sehr unsere sozialen Fähigkeiten abstinken.
 
@@ -1211,7 +1209,6 @@ b: Woran denkst du gerade, Mensch?
 
 [Ist halt so. Lass es uns richten.](#act4_bad_fix)
 
-
 [Ist halt so. Lass es uns akzeptieren.](#act4_bad_accept)
 
 [Danke.](#act4_thanks) `_.thanks_for = "moralisches Wohl";`
@@ -1245,7 +1242,7 @@ h: Es gibt Möglichkeiten uns zu richten.
 
 `hong({eyes:"annoyed"});`
 
-h: Naja, ich nehm an du hast recht.
+h: Naja, ich nehm' an du hast recht.
 
 h: Wir können nicht alles reparieren.
 
@@ -1268,7 +1265,7 @@ h: Und das ist okay.
 
 `bb({eyes:"annoyed_r"});`
 
-b: Ich nehm an, du hast recht. Und noch dazu-
+b: Ich nehm' an, du hast recht. Und noch dazu-
 
 ```
 Game.FORCE_TEXT_Y = 460;
@@ -1332,7 +1329,7 @@ b: Oh, stimmt. Puh! Was für eine Erleichterung!
 
 b: "Herr Doktor, ich habe Angst, dass ich 100$/h bezahle-
 
-b: nur um Sie fragen zu hören *"wie fühlt sich das an?"*
+b: nur um Sie fragen zu hören *wie fühlt sich das an?*"
 
 `bb({ body:"paw", eyes:"closed", mouth:"narrow" })`
 
@@ -1343,7 +1340,7 @@ bb({ body:"normal", eyes:"normal", mouth:"normal" });
 hong({ eyes:"sad" });
 ```
 
-h: Ne du, das ist 'ne total angemessene Sorge.
+h: Nee du, das ist 'ne total angemessene Sorge.
 
 `hong({ eyes:"annoyed", mouth:"sad" });`
 
@@ -1367,7 +1364,7 @@ h: In 'ne Bibliothek gehen, um Arbeitsbücher für evidenzbasierte Psychotherapi
 
 `hong({ body:"one_up" })`
 
-h: Es gibt ne ganze List von Resourcen am Ende dieses Spiels!
+h: Es gibt 'ne ganze List von Resourcen am Ende dieses Spiels!
 
 ```
 hong({ body:"normal" });
@@ -1431,7 +1428,7 @@ h: Ja, wenn ich so drüber nachdenke, "akzeptieren" ist irgendwie verwirrend.
 
 `bb({ eyes:"closed", mouth:"narrow" });`
 
-b: Naja, ich *erkenne das an*
+b: Naja, ich *erkenne das an*.
 
 (#act4_something_else)
 
@@ -1443,7 +1440,7 @@ b: Ich mein', ist es *gut*, dass wir kaputt sind, oder wie? Nein!
 
 `bb({ eyes:"angry_r", body:"one_up" });`
 
-b: All diese verdammten Hollywood Drehbuchautoren, die geistige Krankheiten romantisieren sind voller Mist!
+b: Alle diese verdammten Hollywood Drehbuchautoren, die geistige Krankheiten romantisieren sind voller Mist!
 
 `bb({ eyes:"angry", body:"two_up" });`
 
@@ -1451,7 +1448,7 @@ b: Eine geistige Störung zu haben ist ^scheiße^! Es raubt Leuten ihr *Leben*! 
 
 `bb({ body:"normal" });`
 
-h: Ich denke Therapeuthen meinen "akzeptieren" wie in "sei geduldig mit ihnen".
+h: Ich denke Therapeuten meinen "akzeptieren" wie in "sei geduldig mit ihnen".
 
 ```
 hong({ body:"one_up" });
@@ -1663,7 +1660,7 @@ a: I- Ich meine- es, es ist okay wenn nicht, ich wollte nur...
 
 [Ja, natürlich! Setz dich.](#act4d_yes) `publish("act4", ["hong_to_alshire",2])`
 
-[Sorry, ich brauch' gerade Zeit alleine](#act4d_no) `publish("act4", ["hong_to_alshire",8])`
+[Sorry, ich brauch' gerade Zeit alleine.](#act4d_no) `publish("act4", ["hong_to_alshire",8])`
 
 # act4d_recognition
 
@@ -1697,7 +1694,7 @@ h2: Oh, ich will dich nicht in Verlegenheit bringen!
 
 `publish("act4", ["hong_to_alshire",4]);`
 
-h2: Ich erinner mich nur an ein freundliches Gesicht, das ist alles.
+h2: Ich erinner' mich nur an ein freundliches Gesicht, das ist alles.
 
 ```
 publish("act4", ["hong_to_alshire",5]);
@@ -1725,7 +1722,7 @@ publish("act4", ["hong_to_alshire", 5]);
 publish("act4", ["bb_to_alshire", _.INJURED ? 3 : 1]);
 ```
 
-b: Hang on human, they seem uncomfortable.
+b: Warte, Mensch. Sie scheint unbehaglich.
 
 ```
 publish("act4", ["hong_to_alshire", 6]);
@@ -1830,7 +1827,7 @@ Game.WORDS_HEIGHT_BOTTOM = -1; /* reset */
 
 `publish("act4-jumpcut-hong");`
 
-h: Huch. Das war seltsam. Ich frag mich, was in ihrem Kopf abgegangen ist.
+h: Huch. Das war seltsam. Ich frag' mich, was in ihrem Kopf abgegangen ist.
 
 `publish("act4", ["hong_closer", 2]);`
 
@@ -1865,7 +1862,7 @@ b: Ich will, dass wir uns *verbünden!*
 
 `publish("act4", ["bb_closer", 3]);`
 
-b: Ich will ein guter Wachhund sein. So wie Hunger und Durst bereits Alarm-Signale für deine körperlichen Bedürfnisse sind,-
+b: Ich will ein guter Wachhund sein. So wie Hunger und Durst bereits Alarm-Signale für deine körperlichen Bedürfnisse sind,
 
 `publish("act4", ["bb_closer", 8]);`
 
@@ -1873,7 +1870,7 @@ b: will ich dein Alarm für *psychologische* Bedürfnisse sein - deine Bedürfni
 
 `publish("act4", ["bb_closer", 1]);`
 
-b: Aber... Ich bin schlecht in meinem Job, also brauche ich dich, um mich zu trainieren.
+b: Aber... ich bin schlecht in meinem Job, also brauche ich dich, um mich zu trainieren.
 
 `publish("act4", ["bb_closer", 4]);`
 
@@ -1899,7 +1896,7 @@ b: Ich werde dir vielleicht sogar Bilder von... Dingen zeigen.
 
 `publish("act4", ["bb_closer", 9]);`
 
-b: Es tut mir Leid! Ich bin ein mitgenommener Straßenhund! Mitgenommene Hunde kacken dir manchmal auf's Bett!
+b: Es tut mir Leid! Ich bin ein mitgenommener Straßenhund! Mitgenommene Hunde machen dir manchmal auf's Bett!
 
 `publish("act4", ["bb_closer", 4]);`
 

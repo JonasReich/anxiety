@@ -46,7 +46,7 @@ publish("act3",["roofhong",5]);
 
 r: Du erinnerst mich an mich selbst, als ich jünger war.
 
-r: Damals hab ich mich selbst noch von dem Tier in meinem Kopf fertig machen lassen.
+r: Damals hab' ich mich selbst noch von dem Tier in meinem Kopf fertig machen lassen.
 
 ```
 publish("act3",["roofhunter",9]);
@@ -55,7 +55,7 @@ publish("act3",["roofhong",2]);
 
 r: Ich bin so dankbar, dass ich was davon weitergeben kann.
 
-r: Lass mich dir zeigen, wie du das Biest genauso besiegen kannst, wie ich meins
+r: Lass mich dir zeigen, wie du das Biest genauso besiegen kannst, wie ich meins.
 
 ```
 publish("act3",["roofhunter",2]);
@@ -84,7 +84,7 @@ publish("act3",["roofhunter",21]);
 publish("act3",["roofhong",4]);
 ```
 
-r: Ok. Siehst du diesen baybyblauen Swimmingpool da unten?
+r: Ok. Siehst du diesen babyblauen Swimmingpool da unten?
 
 ```
 publish("act3-alpha", ["dizzyhong",0]);
@@ -131,7 +131,7 @@ r: *Oh neeein es ist gefährlich, mach es niiiicht.*
 publish("act3",["roofhunter",22]);
 ```
 
-r: Aber das ist genau, warum wir todesmutigen Nervenkitzel brauchen! Party Hard! Carpe diem! Zieh ne Line aus nem N^uttenarsch^, #YOLO!
+r: Aber das ist genau, warum wir todesmutigen Nervenkitzel brauchen! Party Hard! Carpe diem! Zieh 'ne Line aus 'nem N^uttenarsch^, #YOLO!
 
 ```
 publish("act3",["roofhunter",10]);
@@ -225,7 +225,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: ^Scheiße^ ja! Ich glaub an dich, Schätzchen! Bring es um! <3
+r: ^Scheiße^ ja! Ich glaub' an dich, Schätzchen! Bring es um! <3
 
 (#act3a)
 
@@ -260,7 +260,7 @@ b: AAAAAAAAAAAAAAAAAA
 
 `bb({ mouth:"normal" });`
 
-n: VIEL GRLÜCK
+n: VIEL GLÜCK
 
 ```
 Game.clearText();
@@ -366,7 +366,7 @@ b: Mensch, bitte...
 
 `hong({ eyes:"look_right" });`
 
-h: Oh, es es *tut mir leid*, dass die Pharma-Industrie meine Selbstverschreibung nicht toll findet.
+h: Oh, es *tut mir leid*, dass die Pharma-Industrie meine Selbstverschreibung nicht toll findet.
 
 h: Hör zu ^Arschloch^, wir haben *alle* Möglichkeiten, dich verdammt noch mal Schweigen zu lassen.
 
@@ -384,13 +384,13 @@ h: Manche Leute stürzen sich in Beziehungen mit anderen.
 
 `hong({ eyes:"angry" });`
 
-h: Und ich stürz mich halt in diesen Swimming Pool.
+h: Und ich stürz' mich halt in diesen Swimmingpool.
 
 [Das ist SECHS STOCKWERKE TIEF](#act3_bad_1_harm)
 
 [Verdammt, so dankst du mir?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
-[Okay, ich geb's zu. Ich hab versagt.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
+[Okay, ich geb's zu. Ich hab' versagt.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
 # act3_bad_1_harm
 
@@ -412,7 +412,7 @@ hong({ body:"normal", mouth:"angry", eyes:"angry" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: Ich hab ein YouTube Video von 'nem Russen gesehen, der das gemacht hat.
+h: Ich hab' ein YouTube Video von 'nem Russen gesehen, der das gemacht hat.
 
 (#act3_bad_2)
 
@@ -475,7 +475,7 @@ h: Irgendwelche anderen Anmerkungen, du Blitzmerker?
 
 [Dich an mir zu rächen, ist nicht die Lösung!](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[Dieses Mal hab ich *tatsächlich* recht!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[Dieses Mal hab' ich *tatsächlich* recht!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
 [Ich hab' dir wehgetan.](#act3_good_2a)
 
@@ -660,7 +660,7 @@ h: Ich fühle rein gar nichts mehr.
 
 b: Ich war so versessen damit, sicherzugehen, dass dir nichts wehtut, dass ich nicht realisiert habe--
 
-b: dass *Ich* deine Schmerzen verursacht habe.
+b: dass *ich* deine Schmerzen verursacht habe.
 
 ```
 bb({ eyes:"sorry"});
@@ -675,7 +675,7 @@ h: ^GOTTVERDAMMT^. Hast du wirklich so lang gebraucht, um das endlich rauszufind
 
 `hong({ body:"cry", mouth:"cry", eyes:"blank" });`
 
-h: Du hättest uns so viele Sorgen ersparen können, du großer flauchiger Dumkopf.
+h: Du hättest uns so viele Sorgen ersparen können, du großer flauchiger Dummkopf.
 
 h: Warum hast du das bloß nicht früher kapiert?...
 
@@ -740,11 +740,11 @@ h: *Was* tut dir leid?
 
 `bb({eyes:"sorry_down"});`
 
-b: Es ist meine Pflicht, dich vor *echter* Gefahr zu warnen, aber ich hab Autos und Briefträger angebellt.
+b: Es ist meine Pflicht, dich vor *echter* Gefahr zu warnen, aber ich hab' Autos und Briefträger angebellt.
 
 `bb({eyes:"sorry_up"});`
 
-b: Ich hab Schatten angebellt. So viel gebellt. 
+b: Ich hab' Schatten angebellt. So viel gebellt. 
 
 `bb({eyes:"sorry"});`
 
@@ -780,7 +780,7 @@ b: Es tut mir leid.
 
 `bb({eyes:"sorry_down"});`
 
-b: Ich war so versessen darauf, dich davor zu bewahren, verletzt zu werden, dass ich nie realisiert habe, dass *ich* dich verletzt habe
+b: Ich war so versessen darauf, dich davor zu bewahren, verletzt zu werden, dass ich nie realisiert habe, dass *ich* dich verletzt habe.
 
 `bb({eyes:"sorry_up"});`
 
@@ -806,9 +806,9 @@ h: ...
 hong({ body:"stop", mouth:"stop", eyes:"blank" });
 ```
 
-h: Ja, naja, das hier war eh ne Dumme Idee.
+h: Ja, naja, das hier war eh 'ne dumme Idee.
 
-h. Ich hab' das nur gemacht, um dich fertig zu machen, und, naja, ich hab' dich fertig gemacht
+h: Ich hab' das nur gemacht, um dich fertig zu machen, und, naja, ich hab' dich fertig gemacht.
 
 h: Lass uns einfach sagen, dieses Mal haben wir Gleichstand, okay?
 

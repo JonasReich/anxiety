@@ -71,7 +71,7 @@ b: Er wird uns *NICHT* die Gastgeberin der Party schlagen lassen!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: Er wird uns den Antihelden, die sympatische Gastgeberin der Party schlagen lassen!
+b: Er wird uns den Antihelden, die sympathische Gastgeberin der Party schlagen lassen!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
@@ -424,7 +424,7 @@ b: Was für eine innere Leere will die denn füllen? Die muss ja total kaputt se
 
 `hong({eyes:"surprise"});`
 
-h: Außerdem hab ich ne Einladung?
+h: Außerdem hab' ich 'ne Einladung?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
@@ -506,11 +506,11 @@ b: oder noch schlimmer... WEISSBROT
 {{/if}}
 
 {{if _.whitebread}}
-b: Wir werden ne Überdosis an so viel Meth und Weißbrot haben - die werden unsere fette Leiche gar nicht in den Verbrennungs-Ofen krigen!
+b: Wir werden 'ne Überdosis an so viel Meth und Weißbrot haben - die werden unsere fette Leiche gar nicht in den Verbrennungs-Ofen krigen!
 {{/if}}
 
 {{if !_.whitebread}}
-b: Wir werden ne Überdosis an so vielen Drogen haben, dass der Leichenbestatter sich wundert, warum unser Körper schon *vorbalsamiert* ist.
+b: Wir werden 'ne Überdosis an so vielen Drogen haben, dass der Leichenbestatter sich wundert, warum unser Körper schon *vorbalsamiert* ist.
 {{/if}}
 
 ```
@@ -521,7 +521,7 @@ attack("18p", "harm");
 (...2500)
 
 {{if _.parasite}}
-b: Außerdem kannst du eh nicht Party machen. Wir müssen arbeiten, oder wir werden zu einem schrecklichen Sozialparsiten!
+b: Außerdem kannst du eh nicht Party machen. Wir müssen arbeiten, oder wir werden zu einem schrecklichen Sozialparasiten!
 {{/if}}
 
 `hong({mouth:"anger", eyes:"anger"});`
@@ -541,7 +541,7 @@ h: Ich sag ab.
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 {{if _.fifteencigs}}
-b: Alles was wir je machen, ist in ner Ecke zu darüber zu heulen, dass Einsamkeit so tötlich wie 15 Zigaretten am Tag ist.
+b: Alles was wir je machen, ist in 'ner Ecke zu darüber zu heulen, dass Einsamkeit so tötlich wie 15 Zigaretten am Tag ist.
 {{/if}}
 
 {{if _.parasite}}
@@ -557,7 +557,7 @@ bb({mouth:"normal", eyes:"normal"});
 hong({mouth:"neutral", eyes:"lookaway"});
 ```
 
-h: Mensch, ich frag mich warum.
+h: Mensch, ich frag' mich warum.
 
 `hong({eyes:"neutral"});`
 
@@ -657,7 +657,6 @@ h: Okay ich werd's retweeten, aber bitte sei still!
 
 `hong({mouth:"neutral", eyes:"annoyed"});`
 
-h: Screw it, let's look at Snapchat.
 h: ^Scheiß^ drauf, lass uns Snapchat anschauen.
 
 (#act1e)
@@ -671,7 +670,7 @@ b: Das ist ein Subtweet! Ein heimtückischer, feiger Subtweet!
 
 `hong({eyes:"annoyed"});`
 
-h: Is es wahrscheinlich nicht?
+h: Ist es wahrscheinlich nicht?
 
 `bb({eyes:"narrow", mouth:"small"});`
 
@@ -773,7 +772,7 @@ h: Ha, Fotos von gestern Abend. Also *so* sind diese wöchentlichen Parties.
 
 `hong({mouth:"sad", eyes:"annoyed"});`
 
-h. Uff, sieht so vollgestopft aus, da wär' mir total unwohl
+h. Uff, sieht so vollgestopft aus, da wär' mir total unwohl.
 
 h: Vielleicht hätt' ich lieber nicht zusagen sollen?
 
@@ -1149,7 +1148,7 @@ hong({eyes:"surprise", mouth:"smile"});
 bb({eyes:"normal"});
 ```
 
-h: Oh, ich hab ein Match! Die sieht Süß aus!
+h: Oh, ich hab' ein Match! Die sieht Süß aus!
 
 ```
 bb({eyes:"narrow_eyebrow"});
@@ -1308,7 +1307,7 @@ b: Sie wird dein Fleisch zu blutigem Konfetti zerreißen, deine Eingeweide zu Lu
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
-b: Was is DAS für eine Party Einladung?!
+b: Was ist DAS für eine Party Einladung?!
 {{/if}}
 
 ```
@@ -1466,7 +1465,7 @@ sfx("rustle2");
 hong({body:"0_sammich", eyes:"0_annoyed", mouth:"0_neutral"});
 ```
 
-h: Also, entschuldige mich, während ich ich dieses schmackhafte Sandwich in ^gottverdammter^ Ruhe genieße.
+h: Also, entschuldige mich, während ich dieses schmackhafte Sandwich in ^gottverdammter^ Ruhe genieße.
 
 `hong({body:"2_sammich_eat"});`
 
@@ -1629,7 +1628,7 @@ b: BRICH'S KAPUTT BRICH'S KAPUTT BRICH'S KAPUTT BRICH'S KAPUTT BRICH'S KAPUTT BR
 
 `bb({eyes:"fear", mouth:"normal"})`
 
-b: Die ganze Welt is voller Gefahren!
+b: Die ganze Welt ist voller Gefahren!
 
 ```
 bb({body:"fear"});

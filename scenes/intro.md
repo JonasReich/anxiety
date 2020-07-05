@@ -96,7 +96,7 @@ n3: Willkommen! Das hier ist weniger ein "Spiel", sondern mehr eine interaktive 
 
 n3: Hoffentlich liest du sie gerne!
 
-n3: So, bevor wie anfangen: Wie würdest *du* gerne lesen?
+n3: Also, bevor wie anfangen: Wie würdest *du* gerne lesen?
 
 `publish("show_options_bottom")`
 
@@ -104,7 +104,7 @@ n3: So, bevor wie anfangen: Wie würdest *du* gerne lesen?
 
 n3: Großartig! Übrigens: Du kannst Optionen jederzeit mit dem ⚙ Icon unten ändern.
 
-n3: Außerdem, as Spiel speichert nach jedem Kapitel automatisch!
+n3: Außerdem, das Spiel speichert nach jedem Kapitel automatisch!
 
 n3: Und jetzt, lass uns mit unserer Geschichte beginnen...
 
