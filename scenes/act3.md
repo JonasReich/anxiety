@@ -626,7 +626,7 @@ h: *"Das einzige, was du fürchten musst, ist das Leben selbst."*
 
 `hong({ body:"look_up", mouth:"happy", eyes:"blank" });`
 
-h: *"Keine Sorge, habe Freude!"*
+h: *"Don't worry, be happy!"*
 
 `hong({ body:"normal", mouth:"normal", eyes:"normal" });`
 
@@ -987,7 +987,7 @@ publish("act3",["roofhunter",32]);
 publish("act3",["roofhunter",33]);
 ```
 
-r: Hat er gerade die Tür abgeschlossen?
+r: Hat der gerade die Tür abgeschlossen?
 
 ```
 Game.clearAll();
